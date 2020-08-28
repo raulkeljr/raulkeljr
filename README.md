@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá a todos!!! Bem vindos à minha galáxia.
+### Cada projeto incluso aqui faz parte da minha trajetória e tem um nível de superação e aprendizado enorme.
+### Agradeço desde já pela visita e me adicione se ainda não formos conectados :)!!!!
 
 <!--
 **raulkeljr/raulkeljr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
